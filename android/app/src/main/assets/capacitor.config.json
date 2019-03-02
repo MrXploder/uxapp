@@ -1,0 +1,7 @@
+{
+  "appId": "com.mrxploder.uxapp",
+  "appName": "uxApp",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "linuxAndroidStudioPath": "/usr/local/android-studio/bin/studio.sh"
+}
